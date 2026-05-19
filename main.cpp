@@ -53,8 +53,7 @@ int main()
 {
     Student s1;
 
-    s1.setPersonDetails("Mallon Tuwai", 22);
-
+    s1.setPersonDetails("Mallon Tuwai", 25);
     s1.setStudentDetails(
         "ENE211-0038/2021",
         "Electrical and Electronic Engineering",
