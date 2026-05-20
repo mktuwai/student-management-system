@@ -22,7 +22,7 @@ public:
     }
 };
 
-// Derived Class (nheritance)
+// Derived Class (Inheritance)
 class Student : public Person
 {
 private:
